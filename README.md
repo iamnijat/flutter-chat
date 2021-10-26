@@ -1,10 +1,10 @@
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/iamnijat/firebase-authentication/Flutter%20CI/master)
-![GitHub forks](https://img.shields.io/github/forks/iamnijat/firebase-authentication)
-![GitHub stars](https://img.shields.io/github/stars/iamnijat/firebase-authentication)
-![GitHub watchers](https://img.shields.io/github/watchers/iamnijat/firebase-authentication)
-![GitHub contributors](https://img.shields.io/github/contributors/iamnijat/firebase-authentication)
-![GitHub last commit](https://img.shields.io/github/last-commit/iamnijat/firebase-authentication)
-![GitHub top language](https://img.shields.io/github/languages/top/iamnijat/firebase-authentication)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/iamnijat/flutter-chat/Flutter%20CI/master)
+![GitHub forks](https://img.shields.io/github/forks/iamnijat/flutter-chat)
+![GitHub stars](https://img.shields.io/github/stars/iamnijat/flutter-chat)
+![GitHub watchers](https://img.shields.io/github/watchers/iamnijat/flutter-chat)
+![GitHub contributors](https://img.shields.io/github/contributors/iamnijat/flutter-chat)
+![GitHub last commit](https://img.shields.io/github/last-commit/iamnijat/flutter-chat)
+![GitHub top language](https://img.shields.io/github/languages/top/iamnijat/flutter-chat)
 
 # Flutter Firebase Chat Application
 
